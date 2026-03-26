@@ -1,5 +1,4 @@
-All content is stored in the WIKI of this repo.
+Previously, content was stored in the wiki of this repo. Now, content is stored on my website at:
 
-github/jcmings/sn/wiki
-
+https://jcmings.com
 
